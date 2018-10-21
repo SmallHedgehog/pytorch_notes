@@ -1,0 +1,3 @@
+# pytorch notes
+
+## loss function
