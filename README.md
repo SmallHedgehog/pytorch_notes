@@ -2,8 +2,12 @@
 
 ## loss function
 
-### See [loss](https://github.com/SmallHedgehog/pytorch_notes/tree/master/loss) for more details.
+### [loss](https://github.com/SmallHedgehog/pytorch_notes/tree/master/loss)
 
 ## autograd
 
-### See [autograd](https://github.com/SmallHedgehog/pytorch_notes/tree/master/autograd) for more details.
+### [autograd](https://github.com/SmallHedgehog/pytorch_notes/tree/master/autograd)
+
+## CUDA semantics
+
+### [cuda semantics](https://github.com/SmallHedgehog/pytorch_notes/tree/master/cuda%20semantics)
