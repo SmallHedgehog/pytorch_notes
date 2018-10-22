@@ -6,4 +6,4 @@
 
 ## autograd
 
-### See[autograd](https://github.com/SmallHedgehog/pytorch_notes/tree/master/autograd) for more details.
+### See [autograd](https://github.com/SmallHedgehog/pytorch_notes/tree/master/autograd) for more details.
