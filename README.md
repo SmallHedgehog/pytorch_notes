@@ -1,13 +1,14 @@
-# pytorch notes
+## pytorch notes
+PyTorch notes summary
 
-## loss function
+### Progress
 
-### [loss](https://github.com/SmallHedgehog/pytorch_notes/tree/master/loss)
+#### DONE
+* loss function
+* autograd
+* CUDA semantics
 
-## autograd
-
-### [autograd](https://github.com/SmallHedgehog/pytorch_notes/tree/master/autograd)
-
-## CUDA semantics
-
-### [cuda semantics](https://github.com/SmallHedgehog/pytorch_notes/tree/master/cuda%20semantics)
+#### TODO
+* extending
+* serialization
+* packages
